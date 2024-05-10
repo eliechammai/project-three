@@ -31,7 +31,8 @@ a:hover{
     border-bottom: 2px solid white;
 }
 .nav__logo{
-    padding: 2rem 0 0 1rem;
+    margin: 2rem 0 0 1rem;
+    border-bottom: 1px solid red;
 }
 .nav__logo-icon{
     font-size: 1.5rem;
