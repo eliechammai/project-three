@@ -67,7 +67,9 @@ a:hover{
     justify-content: space-between;
     align-items: center;
 }
-
+.menu-toggle{
+    padding-top: 1rem;
+}
 
 @media screen and (max-width: 768px) {
     
@@ -121,4 +123,4 @@ a{
 
 }
 .show {
-    top: 3rem; }
+    top: 3.7rem; }
