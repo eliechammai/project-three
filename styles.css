@@ -27,9 +27,7 @@ ul{
 a{
     text-decoration: none;
 }
-a:hover{
-    border-bottom: 2px solid white;
-}
+
 .nav__logo{
     margin: 2rem 0 0 1rem;
     border-bottom: 1px solid red;
@@ -94,6 +92,9 @@ a:hover{
     li{
         padding-bottom: 3rem;
     }
+    li a:hover{
+        border-bottom: 1px solid white;
+    }
     a{
         color: white;
     }
@@ -124,4 +125,4 @@ a{
 
 }
 .show {
-    top: 3.7rem; }
+    top: 3.9rem; }
